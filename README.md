@@ -9,18 +9,18 @@ As a software engineer with a background in Business Development and Project Man
 
 I specialize in bringing a calm to the storm of business with my unflappable nature and years of experience with process improvement, problem-solving, and client-first solutions.
 
-[My Portfolio](https://spencerhaugh.dev)
+Check out [my Portfolio](https://spencerhaugh.dev) here, and definitely send me any feedback you have!
 
 
 ## 🔭 I’m currently working on ...
-Building my portfolio of apps and making connections in the industry.
+Finding my first dev job! Also, building my portfolio of apps and making connections in the industry.
 
 ## 🌱 I’m currently learning ...
-Strengthening my knowledge og Vue.js and Python, at the moment.
+Strengthening my knowledge of Vue.js and Python, at the moment.
 ## 👯 I’m looking to collaborate on ...
 I'd love to collaborate on projects, I'm open to ideas, give me a shout!
 ## 💬 Ask me about ...
-Anything bicycle related. I love them so much I have a podcast all about it. The Slow Ride Podcast
+Anything bicycle-related. :bike: I love them so much that I have a podcast all about it. The Slow Ride Podcast
 ## 📫 How to reach me: ...
 @spencerhaugh on all major social channels
 
