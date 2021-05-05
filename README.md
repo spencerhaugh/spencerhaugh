@@ -19,10 +19,14 @@ Finding my first dev job! Also, building my portfolio of apps and making connect
 
 ## 🌱 I’m currently learning ...
 Strengthening my knowledge of React by building more projects, and just wrapped up a Data Structures & Algorithms course! Next up: Docker and GraphQL!
+
 ## 👯 I’m looking to collaborate on ...
 A career path! Of course, I'd love to collaborate on projects as soon as my job search is complete! However, I'm always open to ideas. Give me a shout!
+
 ## 💬 Ask me about ...
-Anything bicycle-related! :bike:   I love them so much that I even have a fairly popular podcast all about them. (The Slow Ride Podcast)
+Anything bicycle-related! :bike:  
+I love them so much that I even have a fairly popular podcast all about them. (The Slow Ride Podcast)
+
 ## 📫 How to reach me: ...
 @spencerhaugh on all major social channels
 
