@@ -12,10 +12,12 @@ Check out [my Portfolio](https://spencerhaugh.dev) here, and definitely send me 
 
 
 ## 🔭 I’m currently working on ...
-Finding my first dev job! Also, building my portfolio of apps and making connections in the industry.
+Finding my first dev job! Working hard on that, as well as on building a great portfolio of apps and making connections in the industry.
+![Spencer Haugh's Github Stats](https://github-readme-stats.vercel.app/api?username=spencerhaugh&show_icons=true&theme=gruvbox)
 
 ## 🌱 I’m currently learning ...
 Strengthening my knowledge of React by building more projects, and just wrapped up a Data Structures & Algorithms course! Next up: Going even deeper into React and Next.js!
+![Spencer Haugh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spencerhaugh&layout=compact)
 
 ## 👯 I’m looking to collaborate on ...
 A career path! Of course, I'd love to collaborate on projects as soon as my job search is complete! However, I'm always open to ideas. Give me a shout!
