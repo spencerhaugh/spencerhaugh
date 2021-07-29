@@ -12,7 +12,7 @@ Check out [my Portfolio](https://spencerhaugh.dev) here, and definitely send me 
 
 
 ## 🔭 I’m currently working on ...
-Finding my first dev job! Working hard on that, as well as on building a great portfolio of apps and making connections in the industry.
+Finding my first dev job! Working hard on that, as well as on building a great portfolio of apps and making connections in the industry.  
 ![Spencer Haugh's Github Stats](https://github-readme-stats.vercel.app/api?username=spencerhaugh&show_icons=true&theme=gruvbox)
 
 ## 🌱 I’m currently learning ...
