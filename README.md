@@ -16,7 +16,7 @@ Finding my first dev job! Working hard on that, as well as on building a great p
 ![Spencer Haugh's Github Stats](https://github-readme-stats.vercel.app/api?username=spencerhaugh&show_icons=true&theme=gruvbox)
 
 ## 🌱 I’m currently learning ...
-Strengthening my knowledge of React by building more projects, and just wrapped up a Data Structures & Algorithms course! Next up: Going even deeper into React and Next.js!
+Strengthening my knowledge of React by building more projects, and just wrapped up a Data Structures & Algorithms course! Next up: Going even deeper into React and Next.js!  
 ![Spencer Haugh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spencerhaugh&layout=compact)
 
 ## 👯 I’m looking to collaborate on ...
