@@ -12,15 +12,15 @@ Check out [my Portfolio](https://spencerhaugh.dev) here, and definitely send me 
 
 
 ## 🔭 I’m currently working on ...
-Finding my first dev job! Working hard on that, as well as on building a great portfolio of apps and making connections in the industry.  
+Leveling up at my first dev job! Working hard on that, as well as on continuing to build on my portfolio projects, and just becoming a better resource for my company and dev team.  
 ![Spencer Haugh's Github Stats](https://github-readme-stats.vercel.app/api?username=spencerhaugh&show_icons=true&theme=gruvbox)
 
 ## 🌱 I’m currently learning ...
-Strengthening my knowledge of React by building more projects, and just wrapped up a Data Structures & Algorithms course! Next up: Going even deeper into React and Next.js!  
+Angular! This is a framework that, frankly, has always intimidated me. But I am conquering both Typescript and Angular as both are needed in my current role!
 ![Spencer Haugh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spencerhaugh&layout=compact)
 
 ## 👯 I’m looking to collaborate on ...
-A career path! Of course, I'd love to collaborate on projects as soon as my job search is complete! However, I'm always open to ideas. Give me a shout!
+I excited about continuing to strengthen my Angular knowledge, I'm always excited about React projects, and I'm very curious to mess around with Game Dav and C#. As always, I'm always open to ideas. Give me a shout!
 
 ## 💬 Ask me about ...
 Anything bicycle-related! :bike:  
