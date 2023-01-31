@@ -6,7 +6,7 @@ I’ve always had a punk rock DIY spirit. I love making things *work*.
 
 I have been working full time as a full stack developer since late 2021.
 
-As a software engineer with a previous career background in marketing & customr support, I understand user pain points, and strive to build solutions with a focus on resolutions that just feel intuitive, and good to interact with as a user, and ultimately deliver more value to the user and to the project.  
+As a software engineer with a previous career background in marketing & customer support, I understand user pain points, and strive to build solutions with a focus on resolutions that just feel intuitive, and good to interact with as a user, and ultimately deliver more value to the user and to the project.  
 
 Check out [my Portfolio](https://spencerhaugh.dev), and please send any feedback you have! I built it to be fun to interact with, so let me know if you think it is!  
 
