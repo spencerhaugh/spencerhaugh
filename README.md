@@ -13,26 +13,26 @@ Check out [my Portfolio](https://spencerhaugh.dev), and please send any feedback
 
 ## 🔭 I’m currently working on ...  
 
-Leveling up at my first dev job! I'm working really hard on that, which has started off with a bang learning Angular and Typescript on the job, and is now moving into learning NestJS on the backend as well! I'm continuing to build personal projects, and just focusing on becoming a better resource for my company and dev team.   
+Leveling up! I'm working really hard on that, which started off with a bang learning Angular on the job, and is now moving into learning NestJS on the backend as we migrate from Express to Nest on the backend! I'm continuing to build personal projects, one I recently wrapped up is [Poorly Drawn Pokemon](http://www.poorlydrawnpokemon.com), which I made to learn NextJS, and just to see what headless CMS platforms were like to work with. But mainly, I am always focusing on becoming a better resource for my company and dev team.   
   
   
 ![Spencer Haugh's Github Stats](https://github-readme-stats.vercel.app/api?username=spencerhaugh&show_icons=true&theme=transparent)
 
 ## 🌱 I’m currently learning ...  
 
-Angular! This is a framework that, frankly, has always intimidated me. But I am conquering both NestJS on the backend and Angular on the frontend, as both are needed in my current role!  
+Angular! This is a framework that, frankly, has always intimidated me. But I am conquering both NestJS on the backend and Angular on the frontend, as both are needed in my current role. I do really enjoy working in Typescript, so these are fantasic frameworks to be working in!  
   
   
 ![Spencer Haugh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spencerhaugh&layout=compact)
 
 ## 👯 I’m looking to collaborate on ...  
 
-I excited about continuing to strengthen my Angular knowledge, I'm always excited about React projects, and am building some side projects with NextJS and SSR. I'm very curious to mess around with Game Dev and C# someday. As always, I'm always open to ideas. Give me a shout!  
+I excited about continuing to strengthen my Angular knowledge, I'm always excited about React/Next projects, and am building some side projects with NextJS and SSR. I'm very curious to mess around with Game Dev and C# someday. As always, I'm always open to ideas. Give me a shout!  
 
 ## 💬 Ask me about ...  
 
 Anything bicycle-related! :bike:  
-I am a pretty big bike nerd, and I even have a fairly popular podcast all about the sport. (The Slow Ride Podcast, check it out!)  
+Outside of programming, I am a pretty big bike nerd, and I even have a fairly popular podcast all about the sport. (The Slow Ride Podcast, check it out!)  
 
 ## 📫 How to reach me: ...  
 
