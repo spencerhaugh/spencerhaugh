@@ -2,9 +2,12 @@
 
 ![Head image](/images/github-head-01.png)
 
-I’ve always had a punk rock DIY spirit. I love making things *work*.  
+I’ve always had a punk rock DIY spirit. I just love making things *work*.  
 
-I have been coding daily since 2020, and working full time as a full stack developer since 2021 working with Typescript and Javascript.  
+I have been working full time as a developer since 2021 working with Typescript on the frontend and backend. I'm currently working in a full-stack software engineering role, working on a production app with an established start-up deploying production-ready code daily, with ownership of several features.  
+
+I am fluent in leveraging AI tools (Agents, MCP's, prompt engineering, more) to maximize code quality, velocity, and output. I love building fun and functional web apps, and making sure the web continues to be a place that is accessible for everyone.  
+I also love to collaborate across disciplines and teams (with UX designers, PMs, and others) to build amazing sites that customers love to use.
 
 As a software engineer with a previous career background in marketing & customer support, I understand user pain points, and strive to build solutions with a focus on resolutions that just feel intuitive, and good to interact with as a user, and ultimately deliver more value to the user and to the project.  
 
@@ -13,22 +16,17 @@ Check out [my Portfolio](https://spencerhaugh.dev), and please send any feedback
 
 ## 🔭 I’m currently working on ...  
 
-I'm continuing to build personal projects, one I recently wrapped up is [Poorly Drawn Pokemon](http://www.poorlydrawnpokemon.com), which I made to showcase my wife's artwork, to play around with NextJS, and just to see what headless CMS platforms were like to work with. I am always just trying to learn new things, and become a better resource for my company and dev team.   
+I'm continuing to build fun personal projects, one I recently wrapped up is [Poorly Drawn Pokemon](http://www.poorlydrawnpokemon.com), which I made to showcase my wife's artwork, to play around with different technologies, and just to build and ship! I am always just trying to learn new things, and become a better resource for my company and dev team.   
 
 
 ## 🌱 I’m currently learning ...  
 
-I'm currently taking Computer Science courses at Harvard DCE, and also messing around in my freetime with Java and Python applications, just because I am curious about them.
+I'm currently taking Computer Science courses toward an ALB degree at Harvard DCE, and also messing around in my freetime with Java applications, just because I am curious about them.
 
-
-## 💬 Ask me about ...  
-
-Anything bicycle-related! :bike:  
-Outside of programming, I am a pretty big bike nerd, and I even have a fairly popular podcast all about the sport. (The Slow Ride Podcast, check it out!)  
 
 ## 📫 How to reach me: ...  
 
-@spencerhaugh on all major social channels  
+spencer.haugh @ gmail dot com 
 
 ## 😄 Pronouns: ...  
 
